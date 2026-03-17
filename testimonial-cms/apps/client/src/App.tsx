@@ -4,8 +4,7 @@ function App() {
 
   return (
     <>
-    <h1>Estamos listos para arrancar</h1>
-     
+      <h1>Estamos listos para arrancar</h1>
     </>
   )
 }
